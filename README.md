@@ -2,6 +2,7 @@
 
 1. First, clone the repo:
 > git clone https://github.com/maxey05/csalgcm-group-sols
+
 > cd csalgcm-group-sols
 
 2. Create your branch (with your name):
