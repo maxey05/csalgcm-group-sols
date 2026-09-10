@@ -9,3 +9,5 @@
 > git switch -c YOUR_NAME
 
 3. Save your work and upload to Git on your branch, please do not push to main.
+
+4. If possible, keep your work tidy by utilizing folders
